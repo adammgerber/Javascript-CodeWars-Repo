@@ -54,7 +54,4 @@ function toString(b){
 
 /******************************************************* */
 
-
-let func = maps([1,2,3,4])
-
-console.log(func)
+toString(344)
